@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/markow1997/markow1997/main/baner.jpg">
-### Hi there 👋
-
+### Hi, I'm Marcin 👋
+🌱 I’m currently learning to develop programming skills.
 <!--
 **markow1997/markow1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
